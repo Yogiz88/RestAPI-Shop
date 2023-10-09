@@ -1,0 +1,22 @@
+{
+  "name": "restapi-shop",
+  "version": "1.0.0",
+  "description": "This is my rest API ecommerce shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yogiz88/RestAPI-Shop.git"
+  },
+  "author": "Michal Zawadzki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yogiz88/RestAPI-Shop/issues"
+  },
+  "homepage": "https://github.com/Yogiz88/RestAPI-Shop#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
